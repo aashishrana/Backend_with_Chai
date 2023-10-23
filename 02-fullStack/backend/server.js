@@ -8,7 +8,7 @@ app.get("/",(req, res) => {
     res.send("sita ram");
 });
 
-app.get("/joke", (req, res) => {
+app.get("/api/jokes", (req, res) => {
     const jokes = [
         {
             id: 1,
