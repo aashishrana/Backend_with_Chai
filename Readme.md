@@ -10,3 +10,4 @@ CORS, or Cross-Origin Resource Sharing, is a security feature implemented by web
 
 # Proxy 
 is added for the interaction of 2 diffrent port of frontend and backend 
+
