@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import axios from "axios" // axios library used to consume api request jokes
+import axios from "axios" // axios library used to consume api request jokes from backend to frontend
 import './App.css'
 
 function App() {
